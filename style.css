@@ -1,0 +1,18 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	min-height: 100vh;
+}
+
+#name {
+	font-size: 4em;
+	text-shadow: 3px 2px 5px black;
+}
+
+#social {
+	margin-top: 2.5vh;
+	margin-bottom: 22.5vh;
+}
